@@ -1,0 +1,18 @@
+/node_modules
+/public/hot
+/public/storage
+/public/img/employeePic
+/public/img/complaintImg
+/public/img/responseImg
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+database sistem penggajian pt sanema safari mulia.txt
+Dokumentasi Website.txt
+penggajian_sanema.sql
